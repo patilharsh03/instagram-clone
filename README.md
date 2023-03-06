@@ -45,6 +45,8 @@ Start the server
 ```bash
   npm run dev
 ```
+**Note** :- You have to intialize your app on firebase to run this project perfectly.
+
 
 
 ## Environment Variables
